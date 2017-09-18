@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "889515440507",
+    "firebase_url": "https://make-firebase-demo.firebaseio.com",
+    "project_id": "make-firebase-demo",
+    "storage_bucket": "make-firebase-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889515440507:android:66c438d465804d19",
+        "android_client_info": {
+          "package_name": "com.example.doanlv4.makefirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889515440507-oprn6021iqa8r6435689pil8u60vtdmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69BVP7lveTPS6oPu3SZdCGqSfVjFrwxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889515440507:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889515440507-oprn6021iqa8r6435689pil8u60vtdmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69BVP7lveTPS6oPu3SZdCGqSfVjFrwxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
